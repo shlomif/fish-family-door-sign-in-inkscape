@@ -1,0 +1,11 @@
+=encoding utf8
+
+=head1 Fish Family Door Sign in Inkscape.
+
+Sources for the door sign of Shlomi Fish’s family’s apartment. C<babyfisch.svg>
+is taken from the Open Clipart Repository under the public domain:
+
+L<https://openclipart.org/detail/117523/babyfish> .
+
+=cut
+
